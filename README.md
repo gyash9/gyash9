@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hey, I'm Yash 👋🏽  
 
-<!--
-**gyash9/gyash9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 25-year-old self taught developer based in India, and I'm passionate about creating dynamic and never seen before user experiences.
 
-Here are some ideas to get you started:
+- Check out my [Portfolio](https://yashg.codes) to see the projects I've been working on.
+- Follow me on [Twitter](https://twitter.com/gyash21) for my latest thoughts and update.
+- I'm open for opportunities as a Software Developer (Frontend, Backend and Full-Stack Engineer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📦 Toolbox
+
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind`
+ 
+**Version Control:** `Git` `Gitkraken` 
+
+**Backend Development:** `Node.js` `GraphQL` `Firebase` `Spring` `Java`
+
+**Testing:** `Cypress` `Unit Testing` `Postman`
+
+**Others:** `Zustand` `Figma`
+
+
+## 📫 Contact
+
+For a quick response, DM me on [Instagram](https://www.instagram.com/yash.is.coding/) or [LinkedIn](https://www.linkedin.com/in/gyash21/).
